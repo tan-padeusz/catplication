@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Catplication</string>
+
+    <string name="yay_button_text">YAY</string>
+    <string name="nay_button_text">NAY</string>
+    <string name="next_button_text">NEXT</string>
+    <string name="image_content_description">CAT IMAGE</string>
+
+    <!-- TOASTS -->
+    <string name="voted_yay_text">You voted YAY. As expected of you!</string>
+    <string name="voted_nay_text">You voted NAY. Why thou?</string>
+    <string name="voted_unknown_text">You voted unknown. How?</string>
+    <string name="null_response_text">Something went wrong while voting. Please try again!</string>
+</resources>
